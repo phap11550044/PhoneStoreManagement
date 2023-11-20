@@ -1,0 +1,3 @@
+ql1;Nguyễn Chim Sẻ;21;nam;13/20 Võ Văn Tần;NCH@gmail.com;093890944;quản lí nhân viên;ca tối;2
+ql2;Hải Âu;20;nam;12/10 Bầu Trời Của Đôi Ta;haiau@gmail.com;092847382;quản lí kho hàng;ca sáng;4
+ql3;Gục ngã trước vẻ đẹp của em;25;nam;Đường Về Tim Em;gntvdce@gmail.com;092847382;quản lí ngân sách;ca sáng;6

@@ -1,0 +1,4 @@
+1000000;nv3;Công ty cung cấp Nokia;ph1;2022-11-20
+2000000;nv3;Công ty cung cấp Nokia;pn2;2022-11-29
+12000000;nv3;Nhà phân phối Vsmart;pn3;2022-11-25
+5000000;nv3;Ông Hoàng Iphone;pn4;2022-11-22

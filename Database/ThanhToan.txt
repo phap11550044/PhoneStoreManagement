@@ -1,0 +1,3 @@
+tt1;kh1;hd1;2;2023-04-24;Chuyển khoản;1
+tt2;kh3;hd2;1;2023-04-03;Chuyển khoản;0
+tt3;kh4;hd3;3;2023-04-03;Tiền mặt;1
